@@ -1,0 +1,8 @@
+c:\users\win7\documents\visual studio 2015\Projects\DZ03_ZAD1\DZ03_ZAD1\bin\Debug\DZ03_ZAD1.exe.config
+c:\users\win7\documents\visual studio 2015\Projects\DZ03_ZAD1\DZ03_ZAD1\obj\Debug\DZ03_ZAD1.csprojResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2015\Projects\DZ03_ZAD1\DZ03_ZAD1\bin\Debug\DZ03_ZAD1.exe
+c:\users\win7\documents\visual studio 2015\Projects\DZ03_ZAD1\DZ03_ZAD1\bin\Debug\DZ03_ZAD1.pdb
+c:\users\win7\documents\visual studio 2015\Projects\DZ03_ZAD1\DZ03_ZAD1\bin\Debug\EntityFramework.xml
+c:\users\win7\documents\visual studio 2015\Projects\DZ03_ZAD1\DZ03_ZAD1\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\win7\documents\visual studio 2015\Projects\DZ03_ZAD1\DZ03_ZAD1\obj\Debug\DZ03_ZAD1.exe
+c:\users\win7\documents\visual studio 2015\Projects\DZ03_ZAD1\DZ03_ZAD1\obj\Debug\DZ03_ZAD1.pdb
